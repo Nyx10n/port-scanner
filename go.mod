@@ -1,3 +1,3 @@
-module scanport
+module portscanner
 
 go 1.27.3
